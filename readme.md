@@ -1,7 +1,8 @@
 # CONSOLE APPLICATION : CopyHierarchy
 ## Description
-This is a very simple tool to copy a hierarchy of folders.
-For Windows only !
+This is a very simple tool to copy a hierarchy of folders (discarding files).
+
+For Windows only.
 
 ## Disclaimer
 So far this app has been quickly created to help a friend dealing with a repetitive task. It's not elegant and it's not been well tested and no safeguards are implemented. Use this at your own risks.
