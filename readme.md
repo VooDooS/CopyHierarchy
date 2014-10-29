@@ -5,7 +5,7 @@ This is a very simple tool to copy a hierarchy of folders (discarding files).
 For Windows only.
 
 ## Disclaimer
-So far this app has been quickly created to help a friend dealing with a repetitive task. It's not elegant and it's not been well tested and no safeguards are implemented. Use this at your own risks.
+So far this app has been quickly created to help a friend dealing with a repetitive task. It's not elegant, it has not been exhaustively tested and no safeguards are implemented. Use this at your own risks.
 Furhtermore no effort has been done to ease cross compilation on other systems.
 
 ## Usage
